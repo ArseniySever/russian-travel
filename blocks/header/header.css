@@ -1,0 +1,9 @@
+.header {
+  display: grid;
+  grid-template-columns: 0.1fr 0.05fr;
+  grid-template-rows: 0.5fr; 
+  margin-top: 28px;
+  grid-area: header;
+  justify-content: space-around;
+  max-width: 100vw;
+}
