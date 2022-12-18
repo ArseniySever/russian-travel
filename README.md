@@ -7,7 +7,8 @@
 3. Проект днмонстрирует умения с программой Figma
 
 
-* [Ссылка на сайт](https://github.com/ArseniySever/russian-travel)
+* [Ссылка на GitHub](https://github.com/ArseniySever/russian-travel)
+* [Ссылка на GitHub](https://arseniysever.github.io/russian-travel/)
 
 ###  Разрешения проекта
 * Язык: Русский;
