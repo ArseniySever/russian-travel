@@ -8,7 +8,7 @@
 
 
 * [Ссылка на GitHub](https://github.com/ArseniySever/russian-travel)
-* [Ссылка на GitHub](https://arseniysever.github.io/russian-travel/)
+* [Ссылка на Сайт](https://arseniysever.github.io/russian-travel/)
 
 ###  Разрешения проекта
 * Язык: Русский;
