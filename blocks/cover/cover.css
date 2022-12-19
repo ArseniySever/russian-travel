@@ -1,34 +1,34 @@
 .cover{
     position: relative;
     display: grid;
-    grid-template-columns: 30em;
+    grid-template-columns: 35em;
     grid-template-rows: 0.1fr;
     justify-content: center;
     align-content: center;
     margin-top: 12px;
     margin-bottom: 92px;
     grid-area: cover;
-    min-width: 1184px;
     min-height: 740px;
-    
+    width: 100%;
+   
     
 }
 @media screen and (min-width:769px) and (max-width: 1024px){
     .cover{
-    min-width: 1024px;
-    min-height: 640px;
+    min-height: 640;
+    width: 100%;    
     grid-template-columns: 35em;}
 }
 @media screen and (min-width:426px) and (max-width: 768px){
     .cover{
-    min-width: 768px;
     min-height: 480px;
+    width: 100%;   
     grid-template-columns: 36em;}
 }
 @media screen and (min-width:320px) and (max-width: 425px){
     .cover{
-    min-width: 320px;
     min-height: 200px;
+    width: 100%;    
     grid-template-columns: 18em;}
 
     
