@@ -1,11 +1,12 @@
 .lead__image{
-    max-height: 615px;
-    max-width: 984px;
-    margin-top: 64px;
-    justify-self: center;
+  max-height: 615px;
+  max-width: 984px;
+  background-size: cover;
+  margin-top: 64px;
+  justify-self: center;
     }
-    @media screen and (min-width:769px) and (max-width: 1024px){
-      .lead__image{
+@media screen and (min-width:769px) and (max-width: 1024px){
+  .lead__image{
     max-height: 580px;
     max-width: 928px;
   }
