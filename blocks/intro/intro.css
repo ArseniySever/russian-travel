@@ -13,7 +13,7 @@
     .intro{
     grid-template-columns: 0.7fr;
   }
-  }
+}
 @media screen and (min-width:426px) and (max-width: 768px){
     .intro{
     grid-template-columns: 0.9fr;
@@ -23,7 +23,7 @@
     margin-right: 24px;
     grid-template-columns: 1fr;
   }
-  }
+}
 @media screen and (min-width:320px) and (max-width: 425px){
     .intro{
     grid-template-columns: 0.9fr;
@@ -34,6 +34,6 @@
     grid-template-columns: 18em;
 
   }
-  }
+}
 
 
