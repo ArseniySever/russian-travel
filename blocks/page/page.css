@@ -1,6 +1,6 @@
 .page {
   background-color: #2A2C2F;
-  font-family: "Inter", serif;
+  font-family: "Inter", sans-serif;
   font-weight: normal;
   font-style: normal;
   position:relative;
@@ -14,6 +14,7 @@
   "places"
   "cover"
   "footer";
+  justify-content: center;
 }
 
   
