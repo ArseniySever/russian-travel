@@ -9,6 +9,7 @@
     justify-self: center;
     max-width: 640px;
     width: 100%;
+    
 }
 
 @media screen and (min-width:320px) and (max-width: 425px){
