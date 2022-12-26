@@ -10,12 +10,13 @@
     justify-content: center;
     align-content: center;
     z-index: 2;
+    background-color: rgba(42, 44, 47, 0.3);
 }
 .cover__link:hover {
-    opacity: 0.8;
+    background-color: rgba(42, 44, 47, 0.8);
     transition: 2s ease-in;
   }
-@media screen and (min-width:320px) and (max-width: 425px){
+@media screen and (min-width:320px) and (max-width: 767px){
     .cover__link{
     grid-template-columns: 15em;}
 }
