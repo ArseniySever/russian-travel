@@ -1,6 +1,6 @@
 .place{ 
     display: grid;
-    grid-template-columns: 26em 30em;
+    grid-template-columns: 30em 31em;
     grid-template-areas:
     "place__title place__website"
     "place__image place__paragraph";
@@ -15,7 +15,7 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px){
   .place{
-  grid-template-columns: 26em 27em;
+  grid-template-columns: 26em 28em;
   margin-left: 48px;
   margin-right: 48px;
 }
