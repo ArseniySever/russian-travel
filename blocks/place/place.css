@@ -1,6 +1,6 @@
 .place{ 
     display: grid;
-    grid-template-columns: 30em 31em;
+    grid-template-columns: 29em 31em;
     grid-template-areas:
     "place__title place__website"
     "place__image place__paragraph";
@@ -33,7 +33,6 @@
   .place{
       margin: 0;
       grid-template-columns: 0.2fr;
-      grid-template-rows: 0.2fr 0.2fr;
       column-gap: 0;
       row-gap: 32px;
       grid-template-areas:
